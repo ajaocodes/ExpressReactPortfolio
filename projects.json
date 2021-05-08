@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Sport The Answer",
+      "live": "https://ajaocodes.github.io/trivia-app/",
+      "git": "https://github.com/ajaocodes/trivia-app.git",
+      "image": "https://i.imgur.com/jBsQ3G0.png"
+    },
+    {
+      "name": "The Reminder App",
+      "live": "https://ajaocodes.github.io/the_reminder/",
+      "git": "https://github.com/ajaocodes/the_reminder.git",
+      "image": "https://i.imgur.com/1s1YlvE.png"
+    }
+  ]
